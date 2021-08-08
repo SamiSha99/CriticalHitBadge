@@ -1,2 +1,2 @@
-# CriticalHitBadge
+# Critical Hit Badge
 An A Hat in Time that tries to mimic a Team Fortress 2 mechanic, it ain't balanced hehe...
